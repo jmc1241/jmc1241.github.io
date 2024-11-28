@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electical & Computer Engineering, University of New Hampshire (UNH), 2026 (expected)
+* M.S. in Electical & Computer Engineering, IDK, 2026 (expected)
 * B.S. in Electical & Computer Engineering, University of New Hampshire (UNH), 2024
 
 Work experience
