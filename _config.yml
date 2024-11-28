@@ -8,7 +8,7 @@ night_mode: "on/off"
 
 # Navbar
 header_pages:
-  - index.md
+  - README.md
   - research.md
   - publications.md
   - about.md
