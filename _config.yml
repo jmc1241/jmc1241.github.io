@@ -21,20 +21,20 @@ repository               : "jmc1241/jmc1241.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Joshua Calzadillas"
   pronouns         : # example: "she/her"  
   bio              : "MS - Robotics Control Systems"
-  location         : "Earth"
-  employer         : ""
+  location         : ""
+  employer         : "" #"University of New Hampshire (UNH)"
   uri              : "jmc1241.github.io"
-  email            : "" 
+  email            : "jmc1241@usnh.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0009-0001-2434-0339 # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/joshua-calzadillas/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -212,18 +212,21 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  research:
     output: true
-    permalink: /:collection/:path/
+    permalink: ./_research
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
