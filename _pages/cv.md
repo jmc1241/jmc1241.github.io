@@ -11,51 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electical & Computer Engineering, University of New Hampshire (UNH), 2026 (expected)
+* B.S. in Electical & Computer Engineering, University of New Hampshire (UNH), 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Too much for me to get into, I am tired of working on this... Will Do this later
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics
+  * ROS (1 & 2)
+* AI/ML
+  * TensorFlow
+  * PyTorch
+* Programming Languages
+  * Python
+  * C/C++
+  * Rust
+  * Go
+  * ARM Assembly
+* Operating Systems
+  * Linux
+    * Ubuntu
+    * RHEL
+    * Kali
+  * Windows
+  * Mac-OSX
+* Software Services
+  * Ansible
+  * Container Management & Runtime Systems
+    * Podman
+    * Docker
+    * Kubernetes
+  * IDE & Development Platforms
+    * Github
+    * Arduino
+    * VSCode
+  * Databases
+    * InfluxDB
+    * MySQL
+    * PostgreSQL
+  * Infrastructure Management & Monitoring Systems
+    * Terraform
+    * Wireshark
+    * DataDog
+    * Grafana
+  * VLSI/FPGA
+    * Vivado
+    * Cadence
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
