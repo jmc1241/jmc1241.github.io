@@ -214,7 +214,7 @@ kramdown:
 collections:
   research:
     output: true
-    permalink: ./_research
+    permalink: ./:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
