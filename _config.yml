@@ -4,7 +4,7 @@ logo: /assets/img/logo.png
 description: Research projects website
 show_downloads: false
 theme: jekyll-theme-minimal
-
+night_mode: "on/off"
 
 # Navbar
 header_pages:
@@ -12,3 +12,11 @@ header_pages:
   - research.md
   - publications.md
   - about.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
