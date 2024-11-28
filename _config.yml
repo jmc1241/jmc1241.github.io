@@ -1,6 +1,14 @@
-title: Minimal theme
+# Overall theme outline
+title: Joshua Calzadillas
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Research projects website
+show_downloads: false
 theme: jekyll-theme-minimal
+
+
+# Navbar
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - about.md

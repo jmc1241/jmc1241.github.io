@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.md).
-[Home](./home.md)
+[Home](./home.md).
+[Research](./research.md)
+[Publications](./publications.md)
+[About Me](./about.md)
 
 There should be whitespace between paragraphs.
 
