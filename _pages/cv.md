@@ -77,8 +77,8 @@ I will be publishing soon on related research material on additive manufacturing
 ### Undergraduate Research Publications
 
 **Statistical Analysis for Applications of Federated Machine Learning using House Plants** - John Lacourse (Ph.D) & Shaad Mahmud (Ph.D) - UNH -  May 2024 - [Link Here](https://media-gallery.unh.edu/media_submission/1527/?added__year=2024&conference=2&event=4&department=43)
-- Designed a federated learning (FL) framework to support federated learning based on cross-silo, cross-device, and other architectures
-- Designed a FL infrastructure architecture to support IoT sensor nodes asynchronously
+- Designed a federated machine learning (Fed-ML) framework to support federated learning based on cross-silo, cross-device, and other architectures
+- Designed a Fed-ML infrastructure architecture to support IoT sensor nodes asynchronously
 - Designed a sensor node system that operates 10+ sensors in real time while operating an AI model that predicts plant health
 - Designed a set of AI models that use deep learning and GAN to model plant health
 - Utilized machine learning models to classify and cluster different states of a houseplant
@@ -86,17 +86,27 @@ I will be publishing soon on related research material on additive manufacturing
 - Integrated Redis, TensorFlow, PyTorch, REST, & Azure to the project
 
 **Hardware Security Risks and Threat Analyses in Advanced Manufacturing Industry** - QiaoYan Yu (Ph.D) - UNH - September 2023 - [Link Here](https://doi.org/10.1145/3603502)
-- A
+- Contributed to this paper by describing some of the associated problems with AMI & cybersecurity
+- Further discussed some of my previous works with Mezan and how we are looking to further our research goals
+- Assisted with the writing and approaches associated with this work
 
 **WIP: Interdisciplinary Teaching via Hands-on Practice in Cybersecurity** - QiaoYan Yu (Ph.D) - UNH - March 2023 - [Link Here](https://ieeexplore.ieee.org/document/10402266)
-- A
+- Designed a website to support the NHCyberSEE lab
+- Provided insight to students through organization and acitivites such as MITRE-eCTF
+- Provided leadership towards these goals for the university to further our involvement with MITRE-eCTF
+- Helped incorporate infrastructure advice for a fully supported large scale infrastructure of VMs, applications, and other cybersecurity & hardware security focused projects
 
 **Hardware Security in Advanced Manufacturing** - QiaoYan Yu (Ph.D) - UNH - June 2022 - [Link Here](https://dl.acm.org/doi/10.1145/3526241.3530829)
-- A
+- Contributed to this paper by describing some of the associated problems with AMI & cybersecurity
+- Further discussed some of my previous works with Mezan and how we are looking to further our research goals
+- Assisted with the writing and approaches associated with this work
 
 **Challenges of Securing Low-Power LoRaWAN Devices Deployed in Advanced Manufacturing** - QiaoYan Yu (Ph.D) - UNH - April 2022 - [Link Here](https://ieeexplore.ieee.org/document/9806290)
-- A
-
+- Developed different exploitation methods using both software and hardware based attacks
+- Devloped a LoRaWAN jamming system with an Arduino based microcontroller
+- Investigated the result of various jamming attacks using both software and hardware analysis
+- Described different exploitation methods using both software and hardware based attacks
+- Analyzed the communication packets and limitations using GNU Radio
   
 Service and leadership
 ======
