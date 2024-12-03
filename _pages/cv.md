@@ -157,6 +157,7 @@ Skills
   - VSCode
   - MATLAB (& Simulink)
   - LabVIEW
+  - GNU Radio
 - Databases
   - InfluxDB
   - MySQL
