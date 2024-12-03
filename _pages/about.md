@@ -11,7 +11,7 @@ My name is Joshua Calzadillas! I am a Graduate student studying (Robotics) Contr
 Current Projects
 ======
 **Temperature Control of a Specific Additive Manufacturing Process**
-Currently, some of the publications associated with this type of control system have been presented for another application. However, we aim to try and incorporate some of those concepts in with some experimental analysis on the working control parameters available for our application to provide a more real-time and consistent way of controlling a specialized additive manufacturing process that has been quiet for years. Minimal publications resulting this sort of system with a control system allows for more diversity into the field of additive manufacturing providing a better yeild on expanding the horizon of our current fronteir. 
+Currently, some of the publications associated with this type of control system have been presented for another application. However, we aim to try and incorporate some of those concepts with some experimental analysis on the working control parameters available for our application to provide a more real-time and consistent way of controlling a specialized additive manufacturing process that has been quiet for years. Minimal publications resulting this sort of system with a control system allows for more diversity into the field of additive manufacturing providing a better yeild on expanding the horizon of our current fronteir. 
 
 Recent Publications
 ======
